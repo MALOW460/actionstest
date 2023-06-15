@@ -1,8 +1,0 @@
-name shell commands
-
-on:
-  - push
-
-  jobs:
-    run-shell-commands
-      runs-on
